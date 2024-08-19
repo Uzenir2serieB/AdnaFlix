@@ -1,4 +1,11 @@
 body {
     color: white;
     background: black;
+    margin: 0px;
+}
+header {
+    border-bottom: solid 4px rgb(46, 175, 46);
+    padding: 30px;
+    font-size: 40px;
+    color: rgb(199, 25, 135);
 }
